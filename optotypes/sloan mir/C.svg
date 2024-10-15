@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="C.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="251.73001"
+     inkscape:cy="325.97623"
+     inkscape:document-units="px"
+     inkscape:current-layer="optotype"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:lockguides="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="0"
+     width="500px"
+     scale-x="1"
+     inkscape:snap-global="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid834"
+       spacingx="50"
+       spacingy="50"
+       empspacing="2"
+       units="px"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Optotype"
+     inkscape:groupmode="layer"
+     id="optotype"
+     transform="translate(0,0)"
+     style="opacity:1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.4291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="M 245.01129,0 C 383.50751,0 494.99821,111.51684 494.99821,250.01316 494.99821,388.50899 383.50751,500 245.01129,500 123.64492,500 23.03564,414.3847 0,300.00515 h 103.67675 c 20.5247,58.3292 75.8096,99.98398 141.33454,99.98398 83.09774,0 150.00264,-66.87825 150.00264,-149.97597 0,-83.09822 -66.9049,-150.00285 -150.00264,-150.00285 -65.51621,0 -120.80331,41.66037 -141.33454,99.98454 H 0 C 23.04533,85.622395 123.6538,0 245.01129,0 Z"
+       id="rect883" />
+  </g>
+</svg>
